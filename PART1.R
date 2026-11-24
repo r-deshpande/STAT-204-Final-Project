@@ -116,7 +116,7 @@ df %>%
 # https://stackoverflow.com/questions/55227713/creating-a-choropleth-map-with-point-data-using-voronoi-created-surface-polygons
 # https://stackoverflow.com/questions/62884687/adding-circle-markers-on-leaflet-r-on-to-a-map-already-plotted
 # https://rstudio.github.io/leaflet/articles/markers.html
-# http://stackoverflow.com/questions/61447021/count-the-number-of-missing-values-in-groups-in-r?utm_source=chatgpt.com
+
 
 # Set options for how the tigris package will handle the data
 
